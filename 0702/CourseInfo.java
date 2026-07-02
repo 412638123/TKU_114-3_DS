@@ -1,4 +1,4 @@
-public class DataTypeDemo {
+public class CourseInfo {
     public static void main(String[] args) {
         String name = "程式設計與資料結構";
         int credits= 3;

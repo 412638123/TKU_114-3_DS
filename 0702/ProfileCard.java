@@ -1,4 +1,4 @@
-public class ProfileOutput {
+public class ProfileCard {
     public static void main(String[] args) {
         String name = "柯佳妘";
         int age = 20;
